@@ -1,0 +1,26 @@
+nav {
+	background-color: #7749f8;
+}
+
+#create-task-button {
+	background-color: #7749f8;
+	border-color: #7749f8;
+}
+
+#tasks {
+	height: 90vh;
+}
+
+#tasks * {
+	max-height: 100%;
+}
+
+.selected {
+	background-color: #7749f8;
+	color: white;
+}
+
+.done {
+	background-color: #28A745;
+	color: black;
+}
